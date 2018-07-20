@@ -1,0 +1,19 @@
+[
+	{
+		"username": "Начальник",
+		"login": "Boss",
+		"password": "pass1"
+	},
+
+	{
+		"username": "Заместитель",
+		"login": "Little boss",
+		"password": "pass2"
+	},
+
+	{
+		"username": "Помощник",
+		"login": "Bossik",
+		"password": "pass3"
+	}
+]
